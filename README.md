@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Cześć, jestem Gosia. Mam brata Marcina
